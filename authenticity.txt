@@ -1,11 +1,11 @@
-"""Author: Christian Fusco and Robin Shafto
+"""Author: NAME
 Class: CSI-480-01/02
-Assignment: Lab 2
-Date Assigned: 9/21/2017
-Due Date: 10/5/2017
+Assignment: LAB_OR_PA_NUMBER
+Date Assigned: DATE_ASSIGNED
+Due Date: DUE_DATE
 
 Description:
-Using interfaces to create a strategy design pattern and UML Class Diagram.
+DESCRIPTION
 
 Certification of Authenticity: 
 I certify that this is entirely my own work, except where I have given 
@@ -17,9 +17,3 @@ assignment may, for the purpose of assessing this assignment:
 - service (which may then retain a copy of this assignment on its database for
 - the purpose of future plagiarism checking)
 """
-
-public class SoloJump implements SoloBehavior {
-	public void perform() {
-		System.out.println("some jumping solo.");
-	}
-}
