@@ -1,4 +1,4 @@
-"""Author: Brian Zhang and Christian Fusco
+/*Author: Brian Zhang and Christian Fusco
 Class: CSI-480-01/02
 Assignment: Lab 1
 Date Assigned: 9/12/2017
@@ -16,7 +16,7 @@ assignment may, for the purpose of assessing this assignment:
 - staff; and/or Communicate a copy of this assignment to a plagiarism checking
 - service (which may then retain a copy of this assignment on its database for
 - the purpose of future plagiarism checking)
-"""
+*/
 import java.util.ArrayList;
 
 public class Company {

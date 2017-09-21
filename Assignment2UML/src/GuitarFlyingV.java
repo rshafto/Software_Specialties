@@ -1,4 +1,4 @@
-"""Author: Christian Fusco and Robin Shafto
+/*Author: Christian Fusco and Robin Shafto
 Class: CSI-480-01/02
 Assignment: Lab 2
 Date Assigned: 9/21/2017
@@ -16,7 +16,7 @@ assignment may, for the purpose of assessing this assignment:
 - staff; and/or Communicate a copy of this assignment to a plagiarism checking
 - service (which may then retain a copy of this assignment on its database for
 - the purpose of future plagiarism checking)
-"""
+*/
 
 public class GuitarFlyingV extends Guitar {
 	public GuitarFlyingV() {
