@@ -4,6 +4,6 @@ Each folder should have its own readme or makefile where you can just type "Make
 
 ### Headers
 
-To add headers to your projects run add_headers.py  It'll drop it on every file.
+To add headers to your projects run add_headers.py in root.  It'll drop it on every file that doesn't already have a header.
 
 
