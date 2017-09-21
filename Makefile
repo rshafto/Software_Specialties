@@ -1,2 +1,2 @@
 clean:
-	rm -rf *.class
+	rm -rf ./*/bin/*.class
